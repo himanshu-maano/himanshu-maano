@@ -4,10 +4,10 @@
 
 - 🎓 Information Technology undergrad passionate about **solving problems** and **understanding how things work under the hood**.
 - 🧩 Exploring **Data Structures, Algorithms, and OOP**.
-- 🧑‍💻 **250+ problems on LeetCode, 120+ on Codeforces**, actively participating in contests.
+- 🧑‍💻 **250+ problems solved on LeetCode, 120+ on Codeforces**, actively participating in contests.
 - ✨ Best LeetCode Rank: **#2615 / 32,000+ (1500+ rating)**.
 - 🥇 **1st Prize Winner at CodeFluenza**, a coding competition during college fest (April 2025).
-- 💡 Currently learning **web development** to turn logical thinking into practical projects.
+- 💡 Currently learning **web development** to transform logical thinking into practical projects.
 
 ---
 
@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu-maano&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu-maano&theme=radical&no-frame=true&no-bg=false&margin-w=4&v=2" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-maano&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-maano&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
