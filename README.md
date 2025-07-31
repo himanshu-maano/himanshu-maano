@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu-maano&theme=radical&no-frame=true&no-bg=false&margin-w=4&v=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu-maano&theme=radical&no-frame=true&no-bg=false&margin-w=4&v=4" alt="GitHub Trophies" />
 </p>
 
 ---
