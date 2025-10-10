@@ -26,8 +26,8 @@
 ## 📈 Competitive Programming Profiles
 
 - 🟧 [LeetCode](https://leetcode.com/u/maanoo/) – 300+ problems solved
-- 🟦 [Codeforces](https://codeforces.com/profile/h_maano) – 120+ problems solved
-- 🟥 [CodeChef](https://www.codechef.com/users/m_a_n_o) – 2⭐ (1530+)
+- 🟦 [Codeforces](https://codeforces.com/profile/h_maano) – 220+ problems solved (Pupil💚)
+- 🟥 [CodeChef](https://www.codechef.com/users/m_a_n_o) – 3⭐ (1530+)
 
 ---
 
