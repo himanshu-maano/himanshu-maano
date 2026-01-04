@@ -4,8 +4,8 @@
 
 - 🎓 Information Technology undergrad passionate about **solving problems** and **understanding how things work under the hood**.
 - 🧩 Exploring **Data Structures, Algorithms, and OOP**.
-- 🧑‍💻 **350+ problems solved on LeetCode, 220+ on Codeforces(Pupul💚)**, actively participating in contests.
-- ✨ Best LeetCode Rank: **#2615 / 32,000+ (1500+ rating)**.
+- 🧑‍💻 **350+ problems solved on LeetCode, 320+ on Codeforces(Pupul💚)**, actively participating in contests.
+- ✨ Best LeetCode Rank: **#1340 / 32,000+ (1800+ rating)**.
 - 🥇 **1st Prize Winner at CodeFluenza**, a coding competition during college fest (April 2025).
 - 💡 Currently learning **web development** to transform logical thinking into practical projects.
 
@@ -25,9 +25,9 @@
 
 ## 📈 Competitive Programming Profiles
 
-- 🟧 [LeetCode](https://leetcode.com/u/maanoo/) – 300+ problems solved
-- 🟦 [Codeforces](https://codeforces.com/profile/h_maano) – 220+ problems solved (Pupil💚)
-- 🟥 [CodeChef](https://www.codechef.com/users/m_a_n_o) – 3⭐ (1530+)
+- 🟧 [LeetCode](https://leetcode.com/u/maanoo/) – 500+ problems solved
+- 🟦 [Codeforces](https://codeforces.com/profile/h_maano) – 320+ problems solved (Pupil💚)
+- 🟥 [CodeChef](https://www.codechef.com/users/m_a_n_o) – 3⭐ (1609+)
 
 ---
 
