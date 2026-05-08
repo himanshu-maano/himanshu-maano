@@ -4,7 +4,7 @@
 
 - 🎓 Information Technology undergrad passionate about **solving problems** and **understanding how things work under the hood**.
 - 🧩 Exploring **Data Structures, Algorithms, and OOP**.
-- 🧑‍💻 **350+ problems solved on LeetCode, 320+ on Codeforces(Pupul💚)**, actively participating in contests.
+- 🧑‍💻 **550+ problems solved on LeetCode, 320+ on Codeforces(Pupul💚)**, actively participating in contests.
 - ✨ Best LeetCode Rank: **#1340 / 32,000+ (1800+ rating)**.
 - 🥇 **1st Prize Winner at CodeFluenza**, a coding competition during college fest (April 2025).
 - 💡 Currently learning **web development** to transform logical thinking into practical projects.
