@@ -34,7 +34,7 @@
 ## 🎯 Current Goals
 
 ✅ Master **LeetCode Medium problems**  
-✅ Build **mini-projects in web development**  
+✅ Build **projects in web development**  
 ✅ Prepare for **internship & placement interviews**  
 ✅ Share learnings to help others in their coding journey
 
