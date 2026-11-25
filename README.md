@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/himanshu-maano/himanshu-maano/main/assets/night-coder-banner.png" alt="A developer coding at night" width="100%" />
+<img src="https://raw.githubusercontent.com/himanshu-maano/himanshu-maano/main/assets/crimson-night-coder-banner.png" alt="A developer coding at night" width="100%" />
 
 # Himanshu Kumar 👋
 
