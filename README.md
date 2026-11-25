@@ -1,69 +1,54 @@
-<h1 align="center">Hi, I'm Himanshu!</h1>
+<img src="https://raw.githubusercontent.com/himanshu-maano/himanshu-maano/main/assets/night-coder-banner.png" alt="A developer coding at night" width="100%" />
 
-## 🩵 About Me
+# Himanshu Kumar 👋
 
-- 🎓 Information Technology undergrad passionate about **solving problems** and **understanding how things work under the hood**.
-- 🧩 Exploring **Data Structures, Algorithms, and OOP**.
-- 🧑‍💻 **550+ problems solved on LeetCode, 320+ on Codeforces(Pupul💚)**, actively participating in contests.
-- ✨ Best LeetCode Rank: **#1340 / 32,000+ (1800+ rating)**.
-- 🥇 **1st Prize Winner at CodeFluenza**, a coding competition during college fest (April 2025).
-- 💡 Currently learning **web development** to transform logical thinking into practical projects.
+> _A quiet workspace. A curious mind. One more problem to solve._
 
----
+## 🌌 About Me
 
-## 🛠️ Tech Stack
+I'm a software developer who enjoys building practical applications, solving challenging problems, and exploring how technology can turn ideas into reality. I like understanding how things work behind the scenes and finding effective ways to build better solutions.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I'm particularly interested in backend engineering, full-stack development, and designing applications that are reliable, scalable, and useful. I enjoy taking ideas from concept to implementation, learning through the challenges, and continuously improving what I build.
 
----
+Problem-solving is an important part of my journey. I spend time exploring algorithms, practising competitive programming, and working on projects that challenge me to think differently.
 
-## 📈 Competitive Programming Profiles
+I'm also curious about emerging technologies, especially Artificial Intelligence, and always looking for opportunities to learn, experiment, and grow as a developer.
 
-- 🟧 [LeetCode](https://leetcode.com/u/maanoo/) – 500+ problems solved
-- 🟦 [Codeforces](https://codeforces.com/profile/h_maano) – 320+ problems solved (Pupil💚)
-- 🟥 [CodeChef](https://www.codechef.com/users/m_a_n_o) – 3⭐ (1609+)
+_Somewhere between logic, creativity, and a little midnight inspiration._ 🌙
 
----
+## 🎯 Current Arc
 
-## 🎯 Current Goals
+- Building full-stack web applications and exploring new ideas.
+- Developing backend APIs and working with databases.
+- Practising DSA and preparing for software-development internships and placements.
+- Learning through projects: building, testing, debugging, and improving.
 
-✅ Master **LeetCode Medium problems**  
-✅ Build **projects in web development**  
-✅ Prepare for **internship & placement interviews**  
-✅ Share learnings to help others in their coding journey
+## ⚡ Developer Loadout
 
----
+`Frontend` → React, TypeScript, JavaScript, HTML, CSS  
+`Backend` → Node.js, Express, Redis  
+`Databases` → MongoDB, MySQL  
+`Side weapons` → Java, C, Git, GitHub
 
-## 🏆 GitHub Trophies
+## ⚔️ Competitive Programming Arc
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu-maano&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+> _Every hard problem is just a boss fight with a hidden pattern._
+
+<p>
+  <a href="https://leetcode.com/u/maanoo/"><img src="https://img.shields.io/badge/LeetCode-500%2B%20solved-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116&labelColor=0d1117&color=161b22" alt="LeetCode profile" /></a>
+  <a href="https://codeforces.com/profile/h_maano"><img src="https://img.shields.io/badge/Codeforces-Pupil-0d1117?style=for-the-badge&logo=codeforces&logoColor=60a5fa&labelColor=0d1117&color=161b22" alt="Codeforces Pupil" /></a>
+  <a href="https://www.codechef.com/users/m_a_n_o"><img src="https://img.shields.io/badge/CodeChef-3%E2%98%85-0d1117?style=for-the-badge&logo=codechef&logoColor=c084fc&labelColor=0d1117&color=161b22" alt="CodeChef 3 star" /></a>
 </p>
 
----
+I have solved **1,000+ problems** across competitive-programming platforms, learning to stay calm around edge cases, spot patterns, and turn messy logic into efficient code. **Two-time CodeFluenza winner** — back-to-back wins at my college fest.
 
-## 📊 GitHub Stats 
+_The next level is always loading._
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-maano&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true" alt="GitHub Stats" />
-</p>
+## 📡 Open Channel
 
----
-
-## 🤝 Let’s Connect
-
-[![maano](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-maano)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/maanoo/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/h_maano)
+[LinkedIn](https://www.linkedin.com/in/himanshu-maano) · [LeetCode](https://leetcode.com/u/maanoo/) · [Codeforces](https://codeforces.com/profile/h_maano)  
+_Always open to learning, collaboration, and the next difficult quest._
 
 ---
 
-<h3 align="center">✨ “Coding my way, one problem at a time.” ✨</h3>
-
----
+_Midnight ideas → focused code → real-world impact._
