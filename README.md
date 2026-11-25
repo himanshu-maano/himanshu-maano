@@ -4,7 +4,7 @@
 
 > _A quiet workspace. A curious mind. One more problem to solve._
 
-## 🌌 About Me
+## 💫 About Me
 
 I'm a software developer who enjoys building practical applications, solving challenging problems, and exploring how technology can turn ideas into reality. I like understanding how things work behind the scenes and finding effective ways to build better solutions.
 
